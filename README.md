@@ -21,7 +21,7 @@
 
   - 💬 I am 27 years old, currently living in Brazil. I have intermediate proficiency in English and have experience with ReactJS, JavaScript, UI/UX Design, HTML, and CSS. In the realm of web development, I bring hands-on experience in creating engaging and user-friendly interfaces.
 
-  - ⛓️ The name 'trichains' signifies 'three chains' alluding to my past, present, and future—the guiding chains shaping my destiny and life journey.
+  - ⛓️ The name 'trichains' which is an anagram for my name Cristhian, but also signifies 'three chains' alluding to my past, present, and future, the guiding chains shaping my destiny and life journey.
 </details>
 
 <!-- Links -->
