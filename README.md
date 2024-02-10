@@ -19,9 +19,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 27 years old, currently living in Brazil. I have intermediate proficiency in English and have experience with JavaScript, UI/UX Design, HTML and CSS. In the realm of web development, I bring hands-on experience in creating engaging and user-friendly interfaces.
+  - 💬 I am 27 years old, currently living in Brazil. I have intermediate proficiency in English and have experience with ReactJS, JavaScript, UI/UX Design, HTML, and CSS. In the realm of web development, I bring hands-on experience in creating engaging and user-friendly interfaces.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+  - ⛓️ The name 'trichains' signifies 'three chains' alluding to my past, present, and future—the guiding chains shaping my destiny and life journey.
 </details>
 
 <!-- Links -->
