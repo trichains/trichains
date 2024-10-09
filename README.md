@@ -36,7 +36,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Projects](https://trichains.vercel.app)
+- [Projects](https://trichains.dev)
 
 <!-- GIF -->
 <p align="left">
