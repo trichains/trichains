@@ -126,8 +126,6 @@ Cada elo representa um aprendizado, uma conexão, uma transformação. Simboliza
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,1A1A1A,2B2B2B,3C3C3C,4D4D4D&height=170&section=footer&text=trichains.dev&fontSize=25&fontAlignY=70&fontColor=FFFFFF" width="100%"/>
-</p>
-
-
+<a href="https://trichains.dev" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,1A1A1A,3A3A3A,5A5A5A,7A7A7A&height=170&section=footer&text=trichains.dev&fontSize=25&fontAlignY=70&fontColor=FFFFFF" width="100%"/>
+</a>
