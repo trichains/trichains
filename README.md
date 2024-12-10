@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Frontend Pleno com ampla experiência em criar interfaces modernas, funcionais e escaláveis. Trabalho com tecnologias de ponta para entregar soluções digitais que otimizam a experiência do usuário e atendem às demandas de negócios dinâmicos. Além disso, possuo habilidades sólidas em integração de APIs, manipulação de dados e gerenciamento de estados complexos.
+Desenvolvedor Front-end com ampla experiência em criar interfaces modernas, funcionais e escaláveis. Trabalho com tecnologias de ponta para entregar soluções digitais que otimizam a experiência do usuário e atendem às demandas de negócios dinâmicos. Além disso, possuo habilidades sólidas em integração de APIs, manipulação de dados e gerenciamento de estados complexos.
 
 ## 🛠️ Tecnologias & Ferramentas
 
