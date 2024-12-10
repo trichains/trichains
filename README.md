@@ -1,61 +1,131 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor Frontend Pleno com ampla experiência em criar interfaces modernas, funcionais e escaláveis. Trabalho com tecnologias de ponta para entregar soluções digitais que otimizam a experiência do usuário e atendem às demandas de negócios dinâmicos. Além disso, possuo habilidades sólidas em integração de APIs, manipulação de dados e gerenciamento de estados complexos.
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### E-commerce & Headless
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Design & Prototipação
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Ferramentas de Desenvolvimento
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=trichains&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=trichains&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=trichains&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em" alt="Estatísticas do GitHub" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trichains&layout=compact&theme=dark&langs_count=6"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trichains&layout=compact&theme=default&langs_count=6"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trichains&layout=compact&theme=dark&langs_count=6" height="180em" alt="Linguagens mais usadas" />
+  </picture>
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Cristhian! A passionate Front-End student from Brazil.
+## 🌟 Projeto Atual: E-commerce Headless
 
-  - 🌱 I’m currently studying Web Development at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+### Shopify & Shadcn/UI: Solução Full-Stack de Ponta
 
-  - 🔭 I am seeking exciting opportunities to kickstart my career in Front-End Development.
+Atualmente, sou responsável por todo o desenvolvimento full-stack de um projeto de e-commerce headless, integrando:
+- **Shopify Headless Commerce** com arquitetura moderna e escalável
+- **Shadcn/UI** para componentes UI/UX excepcionais
+  - Personalização profunda de componentes
+  - Implementação de design system robusto
+  - Garantia de consistência visual e funcional
+- **Next.js 13+** com arquitetura de aplicação otimizada
+- **GraphQL** para consumo eficiente de APIs
+- **Typescript** para tipagem forte e desenvolvimento seguro
+- **Tailwind CSS** para estilização dinâmica e responsiva
+- **SQL** para gerenciamento e análise de dados no backend
 
-  - ☁️ My dream is to contribute to cutting-edge web projects and create seamless user experiences.
-</p>
+### 🔧 Metodologias & Boas Práticas
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+#### Arquitetura de Código
+- Modularidade e princípio DRY
+- Estrutura de projeto otimizada (app, components, hooks, utils, types)
+- Componentes funcionais concisos
+- Single Responsibility Principle
 
-  - 💬 I am 27 years old, currently living in Brazil. I have intermediate proficiency in English and have experience with ReactJS, JavaScript, UI/UX Design, HTML, and CSS. In the realm of web development, I bring hands-on experience in creating engaging and user-friendly interfaces.
+#### Performance & Otimização
+- React.memo para evitar re-renderizações
+- Lazy loading de componentes
+- Otimização de imagens com next/image
+- Abordagem mobile-first
 
-  - ⛓️ The name 'trichains' which is an anagram for my name Cristhian, but also signifies 'three chains' alluding to my past, present, and future, the guiding chains shaping my destiny and life journey.
-</details>
+#### Gerenciamento de Estado
+- Hooks customizados
+- Context API
+- Zustand para estado global
+- useState e useReducer
 
-<!-- Links -->
+#### Desenvolvimento de UI/UX
+- Tailwind CSS para estilização
+- Componentes shadcn/ui
+- Foco em acessibilidade (WCAG)
+
+#### Tratamento de Dados
+- Validação de formulários com React Hook Form
+- Yup/Zod para validações robustas
+- SWR/React Query para cache de dados
+- Integração com bancos de dados SQL
+
+## 🧠 Bom Uso de IA nos Projetos
+
+As Inteligências Artificiais podem ser ferramentas poderosas para impulsionar projetos, mas é essencial usá-las com responsabilidade:
+
+- **Clareza nos Prompts:** Formule perguntas ou instruções detalhadas e específicas para obter respostas mais precisas.
+- **Validação de Resultados:** Sempre revise e teste o código ou as sugestões geradas para garantir qualidade e segurança.
+- **Privacidade:** Evite compartilhar informações sensíveis ou confidenciais ao usar ferramentas baseadas em IA.
+- **Criatividade com Ética:** Utilize as IAs para acelerar processos criativos, mas sem comprometer a originalidade e o trabalho ético.
+
+Com o uso correto, as IAs podem ser aliadas indispensáveis para economizar tempo, aprimorar qualidade e explorar novas soluções.
+
+## ⛓️ Sobre "trichains"
+
+"trichains" - um anagrama do meu nome Cristhian, que representa as três correntes fundamentais da minha jornada de desenvolvimento:
+- **Primeira Corrente**: Passado - Raízes e fundamentos que me trouxeram até aqui
+- **Segunda Corrente**: Presente - Habilidades técnicas e criativas que desenvolvo continuamente
+- **Terceira Corrente**: Futuro - Visão e potencial de crescimento constante
+
+Cada elo representa um aprendizado, uma conexão, uma transformação. Simboliza como cada experiência se entrelaça para formar minha identidade como desenvolvedor.
+
+## 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trichains/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3correntes@gmail.com)
 
-<!-- GithubStats -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trichains&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trichains&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-<!-- Portfolio -->
-## Portfolio:
-- [Projects](https://trichains.dev)
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/trichains/trichains/assets/25783243/dd8305ce-d16e-491f-b10e-a5bd155e48b3" alt="Imagem">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&text=Construindo%20Experiências%20Digitais%20Incríveis!&fontSize=25&fontAlignY=70" width="100%"/>
 </p>
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  </div>
