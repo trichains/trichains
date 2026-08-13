@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - 'scripts/generate-halloween-graph.mjs'
+      - 'scripts/wrap-github-cards.mjs'
       - '.github/workflows/update-contributions.yml'
 
 permissions:
@@ -28,16 +29,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate-halloween-graph.mjs
 
+      - name: Wrap GitHub cards
+        run: node scripts/wrap-github-cards.mjs
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           stamp=$(date -u +%Y%m%d)
           sed -i "s|contributions.svg?v=[^\"']*|contributions.svg?v=${stamp}|" README.md
-          git add assets/contributions.svg README.md
+          sed -i "s|github-stats.svg?v=[^\"']*|github-stats.svg?v=${stamp}|" README.md
+          sed -i "s|github-streak.svg?v=[^\"']*|github-streak.svg?v=${stamp}|" README.md
+          sed -i "s|github-langs.svg?v=[^\"']*|github-langs.svg?v=${stamp}|" README.md
+          git add assets/contributions.svg assets/github-stats.svg assets/github-streak.svg assets/github-langs.svg README.md
           if git diff --staged --quiet; then
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore: update Halloween contribution calendar"
+          git commit -m "chore: update Halloween calendar and GitHub cards"
           git push
