@@ -10,14 +10,6 @@
 
 Aplicações web, e-commerce headless, funis de venda e integrações.
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/typing.svg?v=start" width="100%" alt="VSL, captura de leads, checkout, tracking" />
-</div>
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-f2884b?style=for-the-badge)](https://trichains.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trichains/)
 
@@ -70,6 +62,10 @@ Os repositórios das cases descrevem o trabalho e apontam para a demo. O código
 Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A decisão técnica e a revisão do código continuam comigo.
 
 ## GitHub
+
+<div align="center">
+  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/typing.svg?v=clip0" alt="VSL, captura de leads, checkout, tracking" />
+</div>
 
 <div align="center">
   <img loading="lazy" decoding="async" width="100%" src="https://github-readme-stats.shion.dev/api?username=trichains&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;icon_color=f2884b&amp;text_color=EDEDED&amp;include_all_commits=true&amp;count_private=true&amp;card_width=900" alt="GitHub stats" />
