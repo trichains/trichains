@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=131424,0A0A0A,F2884B,C2410C&fontAlignY=38&fontColor=FFFFFF&fontSize=42&text=Cristhian%20Almeida&desc=Full%20Stack%20Developer%20·%20React%20·%20Next.js%20·%20TypeScript&descSize=16&descAlignY=60&descColor=F2884B&animation=twinkling" width="100%" alt="Cristhian Almeida" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0A0A0A,45:131424,100:F2884B&fontAlignY=38&fontColor=FFFFFF&fontSize=42&text=Cristhian%20Almeida&desc=Full%20Stack%20Developer%20·%20React%20·%20Next.js%20·%20TypeScript&descSize=16&descAlignY=60&descColor=F2884B&animation=twinkling" width="100%" alt="Cristhian Almeida" />
 </div>
 
 <div align="center">
@@ -78,5 +78,5 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
 ---
 
 <a href="https://trichains.dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0A0A0A,131424,F2884B,C2410C,0F0F0F&text=trichains.dev&fontSize=28&fontAlignY=72&fontColor=F2884B&animation=twinkling&desc=portfolio&descSize=14&descAlignY=88&descColor=FFFFFF" width="100%" alt="trichains.dev" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:F2884B,40:C2410C,100:0A0A0A&text=trichains.dev&fontSize=28&fontAlignY=72&fontColor=FFFFFF&animation=twinkling&desc=portfolio&descSize=14&descAlignY=88&descColor=F2884B" width="100%" alt="trichains.dev" />
 </a>
