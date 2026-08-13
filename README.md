@@ -8,9 +8,8 @@
 
 Aplicações web, e-commerce headless, funis de venda e integrações.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-trichains.dev-f2884b?style=for-the-badge)](https://trichains.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trichains/)
-[![GitHub](https://img.shields.io/badge/GitHub-trichains-0F0F0F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trichains)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-f2884b?style=for-the-badge)](https://trichains.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trichains/)
 
 </div>
 
@@ -63,16 +62,20 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trichains&show_icons=true&hide_border=true&bg_color=0F0F0F&title_color=f2884b&icon_color=f2884b&text_color=EDEDED&include_all_commits=true&count_private=true&show=reviews,prs_merged" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=trichains&background=0F0F0F&ring=F2884B&fire=F2884B&currStreakNum=F2884B&sideNums=EDEDED&currStreakLabel=F2884B&sideLabels=888888&dates=888888&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=trichains&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;icon_color=f2884b&amp;text_color=EDEDED&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=trichains&amp;background=0F0F0F&amp;ring=F2884B&amp;fire=F2884B&amp;currStreakNum=F2884B&amp;sideNums=EDEDED&amp;currStreakLabel=F2884B&amp;sideLabels=888888&amp;dates=888888&amp;hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trichains&layout=compact&hide_border=true&bg_color=0F0F0F&title_color=f2884b&text_color=EDEDED&langs_count=6" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=trichains&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;text_color=EDEDED&amp;langs_count=6" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trichains&bg_color=0F0F0F&color=EDEDED&line=F2884B&point=F2884B&area=true&area_color=F2884B&hide_border=true&custom_title=Activity%20graph&radius=16" alt="Activity graph" width="100%" />
+  <img src="https://ghchart.rshah.org/f2884b/trichains" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trichains&amp;bg_color=0F0F0F&amp;color=EDEDED&amp;line=F2884B&amp;point=F2884B&amp;area=true&amp;area_color=F2884B&amp;hide_border=true&amp;custom_title=Activity%20graph&amp;radius=16" alt="Activity graph" width="100%" />
 </div>
 
 ---
