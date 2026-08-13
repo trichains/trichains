@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://trichains.dev">
-    <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/header.svg?v=particles" width="100%" alt="Cristhian Almeida" />
+    <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/header.svg?v=orbits" width="100%" alt="Cristhian Almeida" />
   </a>
 </div>
 
@@ -83,5 +83,5 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
 ---
 
 <a href="https://trichains.dev">
-  <img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/footer.svg?v=waves-flush" width="100%" alt="trichains.dev" />
+  <img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/footer.svg?v=wave-black" width="100%" alt="trichains.dev" />
 </a>

@@ -6,7 +6,7 @@
       <stop offset="100%" stop-color="#2A1810"/>
     </linearGradient>
   </defs>
-  <path d="M0 96L 0 0Q 213.5 18 427 4T 854 0L 854 96 Z" fill="#111111">
+  <path d="M0 96L 0 0Q 213.5 18 427 4T 854 0L 854 96 Z" fill="#000000">
     <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 96L 0 0Q 213.5 18 427 4T 854 0L 854 96 Z;M0 96L 0 0Q 213.5 6 427 20T 854 0L 854 96 Z;M0 96L 0 0Q 213.5 22 427 2T 854 0L 854 96 Z;M0 96L 0 0Q 213.5 18 427 4T 854 0L 854 96 Z"/>
   </path>
   <path d="M0 96L 0 22Q 213.5 44 427 18T 854 28L 854 96 Z" fill="url(#waveFront)" opacity="0.72">
