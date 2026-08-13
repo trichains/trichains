@@ -1,14 +1,28 @@
-# Cristhian Almeida
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0F0F0F,1A1A1A,2A2A2A&text=Cristhian%20Almeida&fontSize=42&fontAlignY=35&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20·%20React%20·%20Next.js%20·%20TypeScript&descSize=16&descAlignY=58&descColor=F2884B" width="100%" alt="Cristhian Almeida" />
+</div>
 
-**Full Stack Developer** com foco em React, Next.js e TypeScript.
+<div align="center">
 
-Trabalho com aplicações web, e-commerce headless, páginas de venda e integrações entre sistemas.
+**Full Stack Developer** · Campo Grande, MS
 
-[Portfólio](https://trichains.dev) · [LinkedIn](https://www.linkedin.com/in/trichains/) · Campo Grande, MS
+Aplicações web, e-commerce headless, funis de venda e integrações.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-trichains.dev-f2884b?style=for-the-badge)](https://trichains.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trichains/)
+[![GitHub](https://img.shields.io/badge/GitHub-trichains-0F0F0F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trichains)
+
+</div>
 
 ## Stack
 
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · Shopify · Firebase · Supabase · Vercel
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vercel,firebase,supabase&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Git, GitHub, Vercel, Firebase, Supabase" />
+</div>
+
+<br/>
+
+Shopify · shadcn/ui · REST APIs · Webhooks · Storefront API
 
 ## O que eu faço
 
@@ -17,20 +31,41 @@ React · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · Sho
 - Landing pages, VSL e captura de leads
 - Integrações com APIs, webhooks e plataformas de venda
 
-## Projetos
+## Cases
 
-**[E-commerce Full Stack — Shopify headless](https://vitasix-demo.vercel.app)**  
-Frontend customizado integrado ao Shopify: catálogo, produto, carrinho, checkout, avaliações e painel administrativo.
+Os repositórios das cases descrevem o trabalho e apontam para a demo. O código de cliente não é público.
 
-**[VSL e funil de vendas](https://camila-vsl-demo.vercel.app)**  
-Página de VSL e funil de vendas. Na demo pública, partes do fluxo estão desabilitadas por confidencialidade.
-
-**[Lançamento e captura de leads](https://camila-captura-demo.vercel.app)**  
-Landing de lançamento com captura de leads e automações. Na demo pública, partes do fluxo estão desabilitadas por confidencialidade.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://vitasix-demo.vercel.app">E-commerce Full Stack</a></h3>
+      <p>Frontend customizado no Shopify: catálogo, produto, carrinho, checkout, avaliações e painel administrativo.</p>
+      <a href="https://vitasix-demo.vercel.app"><img src="https://img.shields.io/badge/Demo-vitasix--demo-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://github.com/trichains/case-ecommerce"><img src="https://img.shields.io/badge/Case-README-0F0F0F?style=flat-square" alt="Case" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://camila-vsl-demo.vercel.app">VSL e funil de vendas</a></h3>
+      <p>Página de VSL e funil. Na demo pública, partes do fluxo estão desabilitadas por confidencialidade.</p>
+      <a href="https://camila-vsl-demo.vercel.app"><img src="https://img.shields.io/badge/Demo-camila--vsl-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://github.com/trichains/case-vsl"><img src="https://img.shields.io/badge/Case-README-0F0F0F?style=flat-square" alt="Case" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://camila-captura-demo.vercel.app">Lançamento e captura</a></h3>
+      <p>Landing de lançamento com captura de leads e automações. Demo pública com partes desabilitadas.</p>
+      <a href="https://camila-captura-demo.vercel.app"><img src="https://img.shields.io/badge/Demo-camila--captura-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://github.com/trichains/case-captura"><img src="https://img.shields.io/badge/Case-README-0F0F0F?style=flat-square" alt="Case" /></a>
+    </td>
+  </tr>
+</table>
 
 Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A decisão técnica e a revisão do código continuam comigo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trichains/)
+## GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trichains&show_icons=true&hide_border=true&bg_color=0F0F0F&title_color=f2884b&icon_color=f2884b&text_color=EDEDED&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trichains&layout=compact&hide_border=true&bg_color=0F0F0F&title_color=f2884b&text_color=EDEDED&langs_count=6" alt="Top languages" />
+</div>
 
 ---
 
