@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="trichains.dev">
+  <rect width="1200" height="190" fill="#c2410c"/>
+  <rect width="1200" height="190" fill="#f2884b" opacity="0.92"/>
+  <path fill="#0a0a0a" d="M0 190 L1200 190 L1200 45 Q 900 39.3 600 43.35 T 0 45 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 190 L1200 190 L1200 45 Q 900 39.3 600 43.35 T 0 45 Z;M0 190 L1200 190 L1200 62 Q 900 24 600 51 T 0 62 Z;M0 190 L1200 190 L1200 27 Q 900 55.5 600 35.25 T 0 27 Z;M0 190 L1200 190 L1200 45 Q 900 39.3 600 43.35 T 0 45 Z"/>
+  </path>
+  <g aria-hidden="true"><line x1="96.7" y1="66.7" x2="162.5" y2="110.1" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="96.7" y1="66.7" x2="45.0" y2="145.5" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="635.7" y1="98.1" x2="687.3" y2="29.2" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="635.7" y1="98.1" x2="731.1" y2="100.4" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="635.7" y1="98.1" x2="640.7" y2="57.3" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="687.3" y1="29.2" x2="658.6" y2="83.0" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="687.3" y1="29.2" x2="628.9" y2="113.4" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="687.3" y1="29.2" x2="731.1" y2="100.4" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="687.3" y1="29.2" x2="640.7" y2="57.3" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="252.5" y1="27.7" x2="255.0" y2="61.2" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="252.5" y1="27.7" x2="241.2" y2="104.1" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="1016.5" y1="16.2" x2="1090.2" y2="93.8" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="255.0" y1="61.2" x2="241.2" y2="104.1" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="255.0" y1="61.2" x2="162.5" y2="110.1" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="255.0" y1="61.2" x2="266.4" y2="25.0" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="1090.2" y1="93.8" x2="1042.8" y2="16.1" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="241.2" y1="104.1" x2="162.5" y2="110.1" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="241.2" y1="104.1" x2="266.4" y2="25.0" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="658.6" y1="83.0" x2="628.9" y2="113.4" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="658.6" y1="83.0" x2="731.1" y2="100.4" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="628.9" y1="113.4" x2="731.1" y2="100.4" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="628.9" y1="113.4" x2="640.7" y2="57.3" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><line x1="731.1" y1="100.4" x2="640.7" y2="57.3" stroke="#aaaaaa" stroke-opacity="0.22" stroke-width="1"/><circle cx="96.7" cy="66.7" r="2.5" fill="#f2884b" fill-opacity="0.85">
+  <animate attributeName="cy" values="66.7;57.5;66.7" dur="9.9s" begin="-3.9s" repeatCount="indefinite"/>
+</circle><circle cx="635.7" cy="98.1" r="3.7" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="98.1;86.3;98.1" dur="7.4s" begin="-2.4s" repeatCount="indefinite"/>
+</circle><circle cx="687.3" cy="29.2" r="1.4" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="29.2;14.9;29.2" dur="8.6s" begin="-2.8s" repeatCount="indefinite"/>
+</circle><circle cx="252.5" cy="27.7" r="1.5" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="27.7;20.1;27.7" dur="6.4s" begin="-5.3s" repeatCount="indefinite"/>
+</circle><circle cx="338.3" cy="165.1" r="4.1" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="165.1;156.5;165.1" dur="5.8s" begin="-5.5s" repeatCount="indefinite"/>
+</circle><circle cx="1016.5" cy="16.2" r="2.1" fill="#f2884b" fill-opacity="0.85">
+  <animate attributeName="cy" values="16.2;5.3;16.2" dur="9.7s" begin="-2.4s" repeatCount="indefinite"/>
+</circle><circle cx="255.0" cy="61.2" r="3.8" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="61.2;50.1;61.2" dur="6.9s" begin="-3.1s" repeatCount="indefinite"/>
+</circle><circle cx="1090.2" cy="93.8" r="1.8" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="93.8;81.7;93.8" dur="8.5s" begin="-4.6s" repeatCount="indefinite"/>
+</circle><circle cx="1042.8" cy="16.1" r="2.1" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="16.1;6.5;16.1" dur="5.7s" begin="-4.9s" repeatCount="indefinite"/>
+</circle><circle cx="241.2" cy="104.1" r="1.2" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="104.1;91.6;104.1" dur="6.5s" begin="-4.9s" repeatCount="indefinite"/>
+</circle><circle cx="162.5" cy="110.1" r="3.2" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="110.1;101.5;110.1" dur="7.9s" begin="-0.7s" repeatCount="indefinite"/>
+</circle><circle cx="45.0" cy="145.5" r="4.1" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="145.5;138.0;145.5" dur="9.6s" begin="-2.3s" repeatCount="indefinite"/>
+</circle><circle cx="658.6" cy="83.0" r="1.4" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="83.0;67.6;83.0" dur="9.4s" begin="-2.6s" repeatCount="indefinite"/>
+</circle><circle cx="628.9" cy="113.4" r="2.0" fill="#f2884b" fill-opacity="0.85">
+  <animate attributeName="cy" values="113.4;101.6;113.4" dur="5.1s" begin="-2.8s" repeatCount="indefinite"/>
+</circle><circle cx="731.1" cy="100.4" r="3.6" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="100.4;93.1;100.4" dur="9.2s" begin="-5.1s" repeatCount="indefinite"/>
+</circle><circle cx="961.6" cy="138.6" r="3.0" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="138.6;128.6;138.6" dur="9.2s" begin="-5.0s" repeatCount="indefinite"/>
+</circle><circle cx="640.7" cy="57.3" r="1.7" fill="#f2884b" fill-opacity="0.85">
+  <animate attributeName="cy" values="57.3;48.6;57.3" dur="9.8s" begin="-5.7s" repeatCount="indefinite"/>
+</circle><circle cx="266.4" cy="25.0" r="4.0" fill="#aaaaaa" fill-opacity="0.5">
+  <animate attributeName="cy" values="25.0;12.0;25.0" dur="7.4s" begin="-5.1s" repeatCount="indefinite"/>
+</circle></g>
+  <text x="600" y="124" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">trichains.dev</text>
+  <text x="600" y="152" text-anchor="middle" fill="#f2884b" font-size="14" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">portfolio</text>
+</svg>
