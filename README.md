@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/typing.svg?v=mask" width="100%" alt="Aplicações web, e-commerce headless, funis de venda" />
+  <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/typing.svg?v=funil" width="100%" alt="VSL, captura de leads, checkout, tracking" />
 </div>
 
 <div align="center">
