@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="854" height="108" viewBox="0 0 854 108" role="img" aria-label="trichains.dev">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="96" viewBox="0 0 854 96" role="img" aria-label="trichains.dev">
   <defs>
     <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0A0A0A"/>
-      <stop offset="55%" stop-color="#14110E"/>
-      <stop offset="100%" stop-color="#1C140F"/>
+      <stop offset="0%" stop-color="#1A100C"/>
+      <stop offset="55%" stop-color="#24160F"/>
+      <stop offset="100%" stop-color="#2A1810"/>
     </linearGradient>
   </defs>
-  <path d="M0 108L 0 16Q 213.5 0 427 22T 854 12L 854 108 Z" fill="#050505" opacity="0.96">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 108L 0 16Q 213.5 0 427 22T 854 12L 854 108 Z;M0 108L 0 28Q 213.5 8 427 8T 854 24L 854 108 Z;M0 108L 0 8Q 213.5 26 427 6T 854 20L 854 108 Z;M0 108L 0 16Q 213.5 0 427 22T 854 12L 854 108 Z"/>
+  <path d="M0 96L 0 0Q 213.5 18 427 4T 854 0L 854 96 Z" fill="#111111">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 96L 0 0Q 213.5 18 427 4T 854 0L 854 96 Z;M0 96L 0 0Q 213.5 6 427 20T 854 0L 854 96 Z;M0 96L 0 0Q 213.5 22 427 2T 854 0L 854 96 Z;M0 96L 0 0Q 213.5 18 427 4T 854 0L 854 96 Z"/>
   </path>
-  <path d="M0 108L 0 38Q 213.5 58 427 34T 854 46L 854 108 Z" fill="url(#waveFront)" opacity="0.55">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 108L 0 38Q 213.5 58 427 34T 854 46L 854 108 Z;M0 108L 0 48Q 213.5 28 427 52T 854 36L 854 108 Z;M0 108L 0 32Q 213.5 50 427 44T 854 54L 854 108 Z;M0 108L 0 38Q 213.5 58 427 34T 854 46L 854 108 Z"/>
+  <path d="M0 96L 0 22Q 213.5 44 427 18T 854 28L 854 96 Z" fill="url(#waveFront)" opacity="0.72">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 96L 0 22Q 213.5 44 427 18T 854 28L 854 96 Z;M0 96L 0 30Q 213.5 12 427 36T 854 20L 854 96 Z;M0 96L 0 16Q 213.5 38 427 28T 854 40L 854 96 Z;M0 96L 0 22Q 213.5 44 427 18T 854 28L 854 96 Z"/>
   </path>
-  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="52%" fill="#FFFFFF" font-size="28" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">trichains.dev</text>
-  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="76%" fill="#F2884B" font-size="14" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">portfolio</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="54%" fill="#FFFFFF" font-size="28" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">trichains.dev</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="78%" fill="#F2884B" font-size="14" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">portfolio</text>
 </svg>
