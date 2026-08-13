@@ -68,13 +68,13 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
 </p>
 
 <p align="center">
-  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/github-stats.svg?v=wrap" alt="GitHub stats" />
+  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/github-stats.svg?v=20260813" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/github-streak.svg?v=wrap" alt="GitHub streak" />
+  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/github-streak.svg?v=20260813" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/github-langs.svg?v=wrap" alt="Top languages" />
+  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/github-langs.svg?v=20260813" alt="Top languages" />
 </p>
 
 <div align="center">
