@@ -16,7 +16,7 @@ Aplicações web, e-commerce headless, funis de venda e integrações.
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vercel,firebase,supabase,shopify&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Git, GitHub, Vercel, Firebase, Supabase, Shopify" />
+  <img loading="lazy" decoding="async" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vercel,firebase,supabase,shopify&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Git, GitHub, Vercel, Firebase, Supabase, Shopify" />
 </div>
 
 <br/>
@@ -62,24 +62,24 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=trichains&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;icon_color=f2884b&amp;text_color=EDEDED&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=trichains&amp;background=0F0F0F&amp;ring=F2884B&amp;fire=F2884B&amp;currStreakNum=F2884B&amp;sideNums=EDEDED&amp;currStreakLabel=F2884B&amp;sideLabels=888888&amp;dates=888888&amp;hide_border=true" alt="GitHub streak" />
+  <img loading="lazy" decoding="async" height="165" src="https://github-readme-stats.shion.dev/api?username=trichains&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;icon_color=f2884b&amp;text_color=EDEDED&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
+  <img loading="lazy" decoding="async" height="165" src="https://streak-stats.demolab.com?user=trichains&amp;background=0F0F0F&amp;ring=F2884B&amp;fire=F2884B&amp;currStreakNum=F2884B&amp;sideNums=EDEDED&amp;currStreakLabel=F2884B&amp;sideLabels=888888&amp;dates=888888&amp;hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=trichains&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;text_color=EDEDED&amp;langs_count=6" alt="Top languages" />
+  <img loading="lazy" decoding="async" src="https://github-readme-stats.shion.dev/api/top-langs/?username=trichains&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;text_color=EDEDED&amp;langs_count=6" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/contributions.svg?v=20260813" alt="Contribution graph" />
+  <img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/contributions.svg?v=20260813" alt="Contribution graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trichains&amp;bg_color=0F0F0F&amp;color=EDEDED&amp;line=F2884B&amp;point=F2884B&amp;area=true&amp;area_color=F2884B&amp;hide_border=true&amp;custom_title=Activity%20graph&amp;radius=16" alt="Activity graph" width="100%" />
+  <img loading="lazy" decoding="async" src="https://github-readme-activity-graph.vercel.app/graph?username=trichains&amp;bg_color=0F0F0F&amp;color=EDEDED&amp;line=F2884B&amp;point=F2884B&amp;area=true&amp;area_color=F2884B&amp;hide_border=true&amp;custom_title=Activity%20graph&amp;radius=16" alt="Activity graph" width="100%" />
 </div>
 
 ---
 
 <a href="https://trichains.dev">
-  <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/footer.svg?v=desc" width="100%" alt="trichains.dev" />
+  <img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/footer.svg?v=waves-only" width="100%" alt="trichains.dev" />
 </a>
