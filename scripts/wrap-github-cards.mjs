@@ -1,5 +1,5 @@
 /**
- * Envolve os cards de stats numa faixa larga #0F0F0F, conteúdo centralizado.
+ * Junta stats, streak e langs numa faixa #0F0F0F, conteúdo centralizado, sem gap.
  * Roda: node scripts/wrap-github-cards.mjs
  */
 import { mkdirSync, writeFileSync } from 'node:fs';
@@ -12,15 +12,15 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 
 const CARDS = [
   {
-    file: 'github-stats.svg',
+    prefix: 'st',
     url: 'https://github-readme-stats.shion.dev/api?username=trichains&show_icons=true&hide_border=true&bg_color=0F0F0F&title_color=f2884b&icon_color=f2884b&text_color=EDEDED&include_all_commits=true&count_private=true',
   },
   {
-    file: 'github-streak.svg',
+    prefix: 'sk',
     url: 'https://streak-stats.demolab.com?user=trichains&background=0F0F0F&ring=F2884B&fire=F2884B&currStreakNum=F2884B&sideNums=EDEDED&currStreakLabel=F2884B&sideLabels=888888&dates=888888&hide_border=true',
   },
   {
-    file: 'github-langs.svg',
+    prefix: 'lg',
     url: 'https://github-readme-stats.shion.dev/api/top-langs/?username=trichains&layout=compact&hide_border=true&bg_color=0F0F0F&title_color=f2884b&text_color=EDEDED&langs_count=6',
   },
 ];
@@ -50,27 +50,36 @@ function parseSvg(svg) {
   return { body, w, h };
 }
 
-function wrap(svgText) {
-  const { body, w, h } = parseSvg(svgText);
-  const x = ((BANNER_W - w) / 2).toFixed(1);
-  return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${BANNER_W}" height="${h}" viewBox="0 0 ${BANNER_W} ${h}" role="img">
-  <rect width="${BANNER_W}" height="${h}" fill="${BG}"/>
-  <svg x="${x}" y="0" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
-${body}
-  </svg>
-</svg>
-`;
+function prefixIds(body, prefix) {
+  return body
+    .replace(/\bid="([^"]+)"/g, `id="${prefix}$1"`)
+    .replace(/url\(#([^)]+)\)/g, `url(#${prefix}$1)`)
+    .replace(/\bhref="#([^"]+)"/g, `href="#${prefix}$1"`)
+    .replace(/\bxlink:href="#([^"]+)"/g, `xlink:href="#${prefix}$1"`);
 }
 
-const outDir = join(root, 'assets');
-mkdirSync(outDir, { recursive: true });
+const parts = [];
+let y = 0;
 
 for (const card of CARDS) {
   const res = await fetch(card.url, { headers: { 'User-Agent': 'trichains-readme' } });
-  if (!res.ok) throw new Error(`${card.file}: HTTP ${res.status}`);
-  const svg = await res.text();
-  const wrapped = wrap(svg);
-  const dest = join(outDir, card.file);
-  writeFileSync(dest, wrapped);
-  console.log('wrote', dest);
+  if (!res.ok) throw new Error(`${card.prefix}: HTTP ${res.status}`);
+  const { body, w, h } = parseSvg(await res.text());
+  const x = ((BANNER_W - w) / 2).toFixed(1);
+  parts.push(
+    `<svg x="${x}" y="${y}" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">\n${prefixIds(body, card.prefix)}\n</svg>`,
+  );
+  y += h;
 }
+
+const out = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${BANNER_W}" height="${y}" viewBox="0 0 ${BANNER_W} ${y}" role="img" aria-label="GitHub stats">
+  <rect width="${BANNER_W}" height="${y}" fill="${BG}"/>
+  ${parts.join('\n')}
+</svg>
+`;
+
+const outDir = join(root, 'assets');
+mkdirSync(outDir, { recursive: true });
+const dest = join(outDir, 'github-cards.svg');
+writeFileSync(dest, out);
+console.log('wrote', dest, y, 'px');

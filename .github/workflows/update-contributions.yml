@@ -38,10 +38,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           stamp=$(date -u +%Y%m%d)
           sed -i "s|contributions.svg?v=[^\"']*|contributions.svg?v=${stamp}|" README.md
-          sed -i "s|github-stats.svg?v=[^\"']*|github-stats.svg?v=${stamp}|" README.md
-          sed -i "s|github-streak.svg?v=[^\"']*|github-streak.svg?v=${stamp}|" README.md
-          sed -i "s|github-langs.svg?v=[^\"']*|github-langs.svg?v=${stamp}|" README.md
-          git add assets/contributions.svg assets/github-stats.svg assets/github-streak.svg assets/github-langs.svg README.md
+          sed -i "s|github-cards.svg?v=[^\"']*|github-cards.svg?v=${stamp}|" README.md
+          git add assets/contributions.svg assets/github-cards.svg README.md
           if git diff --staged --quiet; then
             echo "No changes"
             exit 0
