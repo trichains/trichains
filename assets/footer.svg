@@ -6,17 +6,17 @@
   </style>
   <defs>
     <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0A0A0A"/>
-      <stop offset="40%" stop-color="#121212"/>
-      <stop offset="75%" stop-color="#1A1A1A"/>
-      <stop offset="100%" stop-color="#241A14"/>
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="40%" stop-color="#0A0A0A"/>
+      <stop offset="75%" stop-color="#100C0A"/>
+      <stop offset="100%" stop-color="#18110C"/>
     </linearGradient>
   </defs>
   <g transform="translate(427, 85) scale(1, 1) translate(-427, -85)">
     <path d="M0 0L 0 90Q 213.5 130 427 100T 854 125L 854 0 Z" fill="#000000">
       <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 90Q 213.5 130 427 100T 854 125L 854 0 Z;M0 0L 0 115Q 213.5 130 427 110T 854 100L 854 0 Z;M0 0L 0 135Q 213.5 105 427 135T 854 100L 854 0 Z;M0 0L 0 90Q 213.5 130 427 100T 854 125L 854 0 Z"/>
     </path>
-    <path d="M0 0L 0 105Q 213.5 150 427 120T 854 130L 854 0 Z" fill="url(#linear)" opacity="0.55">
+    <path d="M0 0L 0 105Q 213.5 150 427 120T 854 130L 854 0 Z" fill="url(#linear)" opacity="0.82">
       <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 105Q 213.5 150 427 120T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 90 427 90T 854 110L 854 0 Z;M0 0L 0 115Q 213.5 95 427 120T 854 135L 854 0 Z;M0 0L 0 105Q 213.5 150 427 120T 854 130L 854 0 Z"/>
     </path>
   </g>
