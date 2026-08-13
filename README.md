@@ -83,5 +83,5 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
 ---
 
 <a href="https://trichains.dev">
-  <img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/footer.svg?v=sine-hw" width="100%" alt="trichains.dev" />
+  <img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/footer.svg?v=original-waves" width="100%" alt="trichains.dev" />
 </a>
