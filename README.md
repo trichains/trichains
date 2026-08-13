@@ -5,14 +5,18 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/typing.svg?v=visible" width="100%" alt="VSL, captura de leads, checkout, tracking" />
-</div>
-
-<div align="center">
 
 **Full Stack Developer** · Campo Grande, MS · [Disponível para oportunidades](https://www.linkedin.com/in/trichains/)
 
 Aplicações web, e-commerce headless, funis de venda e integrações.
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/typing.svg?v=start" width="100%" alt="VSL, captura de leads, checkout, tracking" />
+</div>
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-f2884b?style=for-the-badge)](https://trichains.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trichains/)
