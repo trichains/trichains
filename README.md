@@ -17,7 +17,7 @@ Aplicações web, e-commerce headless, funis de venda e integrações.
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vercel,firebase,supabase&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Git, GitHub, Vercel, Firebase, Supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vercel,firebase,supabase,shopify&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Git, GitHub, Vercel, Firebase, Supabase, Shopify" />
 </div>
 
 <br/>
