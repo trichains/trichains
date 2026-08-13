@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://trichains.dev">
-    <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/header.svg?v=type" width="100%" alt="Cristhian Almeida" />
+    <img src="https://raw.githubusercontent.com/trichains/trichains/main/assets/header.svg?v=type2" width="100%" alt="Cristhian Almeida" />
   </a>
 </div>
 
