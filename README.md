@@ -67,17 +67,23 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
   <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/typing.svg?v=clip0" alt="VSL, captura de leads, checkout, tracking" />
 </div>
 
-<div align="center">
-  <img loading="lazy" decoding="async" width="100%" src="https://github-readme-stats.shion.dev/api?username=trichains&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;icon_color=f2884b&amp;text_color=EDEDED&amp;include_all_commits=true&amp;count_private=true&amp;card_width=900" alt="GitHub stats" />
-</div>
-
-<div align="center">
-  <img loading="lazy" decoding="async" width="100%" src="https://streak-stats.demolab.com?user=trichains&amp;background=0F0F0F&amp;ring=F2884B&amp;fire=F2884B&amp;currStreakNum=F2884B&amp;sideNums=EDEDED&amp;currStreakLabel=F2884B&amp;sideLabels=888888&amp;dates=888888&amp;hide_border=true&amp;card_width=900" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img loading="lazy" decoding="async" width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=trichains&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;text_color=EDEDED&amp;langs_count=6&amp;card_width=900" alt="Top languages" />
-</div>
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center" bgcolor="#0F0F0F">
+      <img loading="lazy" decoding="async" src="https://github-readme-stats.shion.dev/api?username=trichains&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;icon_color=f2884b&amp;text_color=EDEDED&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#0F0F0F">
+      <img loading="lazy" decoding="async" src="https://streak-stats.demolab.com?user=trichains&amp;background=0F0F0F&amp;ring=F2884B&amp;fire=F2884B&amp;currStreakNum=F2884B&amp;sideNums=EDEDED&amp;currStreakLabel=F2884B&amp;sideLabels=888888&amp;dates=888888&amp;hide_border=true" alt="GitHub streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#0F0F0F">
+      <img loading="lazy" decoding="async" src="https://github-readme-stats.shion.dev/api/top-langs/?username=trichains&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F0F0F&amp;title_color=f2884b&amp;text_color=EDEDED&amp;langs_count=6" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/contributions.svg?v=20260813" alt="Contribution graph" />
