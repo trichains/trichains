@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 182.1441325936883;
+        stroke-dashoffset: 181.37413439427908;
       }
     }
   
@@ -273,7 +273,7 @@
                 <!-- Total Contributions range -->
                 <g transform='translate(82.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#888888' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.8s'>
-                        Feb 14, 2017 - Present
+                        Feb 15, 2017 - Present
                     </text>
                 </g>
             </g>
