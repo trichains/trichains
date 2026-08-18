@@ -80,7 +80,7 @@ Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A
 </div>
 
 <div align="center">
-  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/contributions.svg?v=20260817" alt="Contribution graph" />
+  <img loading="lazy" decoding="async" width="100%" src="https://raw.githubusercontent.com/trichains/trichains/main/assets/contributions.svg?v=20260818" alt="Contribution graph" />
 </div>
 
 <div align="center">
