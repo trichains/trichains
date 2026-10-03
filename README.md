@@ -59,6 +59,40 @@ Os repositórios das cases descrevem o trabalho e apontam para a demo. O código
   </tr>
 </table>
 
+## Open source
+
+Projetos que construí de ponta a ponta — código público, testes, CI e demo. Cada um resolve um problema real do ecossistema em que trabalho.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/trichains/webhook-relay">Webhook Relay</a></h3>
+      <p>Gateway de webhooks: verificação de assinatura (HMAC e hottok), ingestão idempotente, retentativas com backoff, dead-letter queue e replay. Next.js, Drizzle, Postgres.</p>
+      <a href="https://webhook-relay.vercel.app"><img src="https://img.shields.io/badge/Demo-webhook--relay-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://github.com/trichains/webhook-relay"><img src="https://img.shields.io/badge/Code-GitHub-0F0F0F?style=flat-square" alt="Code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/trichains/edge-experiments">Edge Experiments</a></h3>
+      <p>Testes A/B e feature flags para páginas de conversão, atribuídos no edge (proxy do Next.js) com cookies persistentes, SDK tipado e estatística (intervalo de confiança, teste z, tamanho de amostra).</p>
+      <a href="https://edge-experiments.vercel.app"><img src="https://img.shields.io/badge/Demo-edge--experiments-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://github.com/trichains/edge-experiments"><img src="https://img.shields.io/badge/Code-GitHub-0F0F0F?style=flat-square" alt="Code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/trichains/page-blocks">Page Blocks</a></h3>
+      <p>Engine de landing pages orientada a schema: conteúdo JSON validado com Zod, registro de blocos tipados, editor gerado a partir dos schemas e páginas estáticas com SEO e OG image.</p>
+      <a href="https://page-blocks.vercel.app"><img src="https://img.shields.io/badge/Demo-page--blocks-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://github.com/trichains/page-blocks"><img src="https://img.shields.io/badge/Code-GitHub-0F0F0F?style=flat-square" alt="Code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/trichains/hotmart-webhooks">hotmart-webhooks</a></h3>
+      <p>SDK TypeScript para webhooks da Hotmart: schemas Zod por evento, verificação de hottok em tempo constante, roteador de handlers com idempotência, adapters para Next.js/Node/Express, fixtures e CLI.</p>
+      <a href="https://github.com/trichains/hotmart-webhooks"><img src="https://img.shields.io/badge/Code-GitHub-0F0F0F?style=flat-square" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
+
 Utilizo Claude, GPT e Cursor no dia a dia como ferramentas de desenvolvimento. A decisão técnica e a revisão do código continuam comigo.
 
 ## GitHub
