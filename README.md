@@ -68,13 +68,13 @@ Projetos que construí de ponta a ponta — código público, testes, CI e demo.
     <td width="50%" valign="top">
       <h3><a href="https://github.com/trichains/webhook-relay">Webhook Relay</a></h3>
       <p>Gateway de webhooks: verificação de assinatura (HMAC e hottok), ingestão idempotente, retentativas com backoff, dead-letter queue e replay. Next.js, Drizzle, Postgres.</p>
-      <a href="https://webhook-relay.vercel.app"><img src="https://img.shields.io/badge/Demo-webhook--relay-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://webhook-relay-gray.vercel.app"><img src="https://img.shields.io/badge/Demo-webhook--relay-f2884b?style=flat-square" alt="Demo" /></a>
       <a href="https://github.com/trichains/webhook-relay"><img src="https://img.shields.io/badge/Code-GitHub-0F0F0F?style=flat-square" alt="Code" /></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/trichains/edge-experiments">Edge Experiments</a></h3>
       <p>Testes A/B e feature flags para páginas de conversão, atribuídos no edge (proxy do Next.js) com cookies persistentes, SDK tipado e estatística (intervalo de confiança, teste z, tamanho de amostra).</p>
-      <a href="https://edge-experiments.vercel.app"><img src="https://img.shields.io/badge/Demo-edge--experiments-f2884b?style=flat-square" alt="Demo" /></a>
+      <a href="https://edge-experiments-rosy.vercel.app"><img src="https://img.shields.io/badge/Demo-edge--experiments-f2884b?style=flat-square" alt="Demo" /></a>
       <a href="https://github.com/trichains/edge-experiments"><img src="https://img.shields.io/badge/Code-GitHub-0F0F0F?style=flat-square" alt="Code" /></a>
     </td>
   </tr>
