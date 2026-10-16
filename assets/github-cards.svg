@@ -3,7 +3,7 @@
   <svg x="366.5" y="0" width="467" height="195" viewBox="0 0 467 195">
 
         <title id="sttitleId">Cristhian Almeida's GitHub Stats, Rank: B-</title>
-        <desc id="stdescId">Total Stars Earned: 45, Total Commits  : 723, Total PRs: 9, Total Issues: 1, Contributed to (last year): 0</desc>
+        <desc id="stdescId">Total Stars Earned: 45, Total Commits  : 752, Total PRs: 11, Total Issues: 1, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 178.56676609376058;
+        stroke-dashoffset: 176.5451371067216;
       }
     }
   
@@ -171,7 +171,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >723</text>
+      >752</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -186,7 +186,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >9</text>
+      >11</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -259,7 +259,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ededed' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        2,937
+                        3,031
                     </text>
                 </g>
 
@@ -288,7 +288,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#888888' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Sep 28 - Oct 14
+                        Sep 28 - Oct 16
                     </text>
                 </g>
 
@@ -305,7 +305,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#f2884b' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        17
+                        19
                     </text>
                 </g>
 
@@ -460,7 +460,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="120.37"
+          width="118.82"
           height="8"
           fill="#3178c6"
         />
@@ -468,9 +468,9 @@
         <rect
           mask="url(#lgrect-mask)"
           data-testid="lang-progress"
-          x="120.37"
+          x="118.82"
           y="0"
-          width="54.31"
+          width="53.55"
           height="8"
           fill="#e34c26"
         />
@@ -478,9 +478,9 @@
         <rect
           mask="url(#lgrect-mask)"
           data-testid="lang-progress"
-          x="174.68"
+          x="172.37"
           y="0"
-          width="32.36"
+          width="32.16"
           height="8"
           fill="#f1e05a"
         />
@@ -488,9 +488,9 @@
         <rect
           mask="url(#lgrect-mask)"
           data-testid="lang-progress"
-          x="207.04000000000002"
+          x="204.53"
           y="0"
-          width="28.11"
+          width="27.72"
           height="8"
           fill="#663399"
         />
@@ -498,9 +498,9 @@
         <rect
           mask="url(#lgrect-mask)"
           data-testid="lang-progress"
-          x="235.15000000000003"
+          x="232.25"
           y="0"
-          width="19.53"
+          width="19.4"
           height="8"
           fill="#fcb32c"
         />
@@ -508,11 +508,11 @@
         <rect
           mask="url(#lgrect-mask)"
           data-testid="lang-progress"
-          x="244.68000000000004"
+          x="241.65"
           y="0"
-          width="15.32"
+          width="18.35"
           height="8"
-          fill="#3572A5"
+          fill="#89e051"
         />
       
       
@@ -521,42 +521,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 48.15%
+        TypeScript 47.53%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 21.72%
+        HTML 21.42%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 12.95%
+        JavaScript 12.86%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 11.24%
+        CSS 11.09%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#fcb32c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MDX 3.81%
+        MDX 3.76%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 2.13%
+        Shell 3.34%
       </text>
     </g>
   </g></g>
